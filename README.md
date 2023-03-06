@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piotr (call me Pyother)</h1>
 <h3 align="center">Python & Frontend Developer. DevOps passionate.</h3>
-<p align ="center">Here's profile of a casual guy who sometimes gets bored and learns web.<br/>If you want a website, go ahead and write to me! </p>
+<p align ="center">Here's profile of a casual guy who enjoys learning web technologies.<br/>If you want a website, go ahead and write to me! </p>
 
 
 
