@@ -6,12 +6,9 @@
 <p>
     <div style="display:flex;">
         <h1 style="color: white;">
-            <mark style="background-color: #260826; color:white">
-                &nbsp;
-                <img src="images/gear.png" width="20" height="20"/>
-                &nbsp;PIOTR SOBOL&nbsp;
-                <img src="images/web-development.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;
-            </mark>
+            <img src="images/gear.png" width="20" height="20"/>
+            &nbsp;PIOTR SOBOL&nbsp;
+            <img src="images/web-development.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;
         </h1>
     </div>
 </p>
