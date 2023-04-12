@@ -3,8 +3,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Tangerine:wght@700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 
-<h1 style="background: linear-gradient(to right, #9ed5fc, #ce84f7);">Piotr Sobol</h1>
-<h2 class="subtitle">Crafting Exceptional Software Solutions</h2>
+<p>
+    <div style="display:flex;">
+        <h1 style="color: white;">
+            <mark style="background-color: #260826; color:white">
+                &nbsp;
+                <img src="images/gear.png" width="20" height="20"/>
+                &nbsp;PIOTR SOBOL&nbsp;
+                <img src="images/web-development.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;
+            </mark>
+        </h1>
+    </div>
+</p>
+
+<h3 style="font-family: cursive">Crafting Exceptional Software Solutions</h3>
 <p>Python and Frontend Developer by day, DevOps superhero by night! With a passion for all things web and embedded, I'm on a mission to create amazing experiences that leave a lasting impact. </p>
 
 <h3>Connect with me:
