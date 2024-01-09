@@ -13,8 +13,8 @@
     </div>
 </p>
 
-<h3 style="font-family: cursive">Crafting Exceptional Software Solutions</h3>
-<p>Python and Frontend Developer by day, DevOps superhero by night! With a passion for all things web and embedded, I'm on a mission to create amazing experiences that leave a lasting impact. </p>
+<h3 style="font-family: cursive">Hi there, I'm Pyother</h3>
+<p>I am Piotr Sobol. I am an engineering student majoring in IT Engineering and I work as a front-end developer on a daily basis. Apart from web development, my greatest passion is electronics and embedded programming.</p>
 
 <h3>Connect with me:
 <p><br/>
