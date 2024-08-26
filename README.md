@@ -17,14 +17,5 @@
 
 Official website: https://about.pyother.pl
 
-<h3>Connect with me:
-<p><br/>
-<a href="https://linkedin.com/in/piotr-sobol-800499235" target="blank"><img class="social-media-icon" src="images/linkedin.png" align="center" alt="piotr-sobol-800499235"/ width="40" height="40">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pyother_s/" target="blank"><img class="social-media-icon" src="images/instagram.png" align="center" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="" target="blank"><img class="social-media-icon" src="images/discord.png" align="center"  width="40" height="40"/>
-</a>
-</p>
 
 
