@@ -17,13 +17,20 @@ My name is **Piotr Sobol**. I'm a web developer with great passion for electroni
 
 ### Keep in touch!
 
-<p>
-    <a href="https://www.instagram.com/pyother_s/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="40" height="40" color="red" alt="Instagram"/>
+<div>
+    <a href="https://www.instagram.com/pyother_s/">
+        <img src="images/instagram-icon.png" width="50" height="50" alt="Instagram"/>
     </a>
-    <a href="https://www.linkedin.com/in/piotr-sobol-800499235/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="40" height="40" color="" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/piotr-sobol-800499235/">
+        <img src="images/linkedin-icon.png" width="50" height="50" alt="LinkedIn"/>
     </a>
-</p>
+    <a hre-="https://www.facebook.com/piotr.sobol.104">
+        <img src="images/facebook-icon.png" width="50" height="50" alt="Facebook"/>
+    </a>
+</div>
 
+## 📧 For Business Inquiries
+
+Feel free to reach out via email:  
+**[piotr.dominik.sobol@gmail.com](mailto:piotr.dominik.sobol@gmail.com)**  
 
