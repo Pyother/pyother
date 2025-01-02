@@ -1,27 +1,29 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Tangerine:wght@700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<div style="display:flex; align-items:center;">
+    <img src="images/logo.png" width="50" height="50"/>
+    <h1 style="color: white; display:inline; margin-left:10px;">PIOTR SOBOL</h1>
+</div>
+
+### Hello, I'm Pyother 
+
+My name is **Piotr Sobol**. I'm a web developer with great passion for electronics and embedded systems.
+
+### My services:
+- **Websites** - creation, management, and development.  
+- **Applications for IoT** - home automations.
+
+**Official website:** [https://about.pyother.pl](https://about.pyother.pl)  
+
+---
+
+### Keep in touch!
 
 <p>
-    <div style="display:flex;">
-        <h1 style="color: white;">
-            <img src="images/logo.png" width="50" height="50"/>
-            &nbsp;PIOTR SOBOL&nbsp;
-        </h1>
-    </div>
+    <a href="https://www.instagram.com/pyother_s/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="40" height="40" color="red" alt="Instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/piotr-sobol-800499235/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="40" height="40" color="" alt="LinkedIn"/>
+    </a>
 </p>
-
-<h3 style="font-family: cursive">Hi there, I'm Pyother</h3>
-<p>My name is Piotr Sobol. I'm web developer with great passion for electronics and embedded systems.</p>
-My services:
-
-* Websites - creation, management and development. 
-* Applications for IoT home automations. 
-
-Official website: https://about.pyother.pl
-
-Keep in touch! 
-
 
 
