@@ -1,4 +1,4 @@
-# Piotr Sobol (Pyother)
+# 𝕻𝖎𝖔𝖙𝖗 𝕾𝖔𝖇𝖔𝖑
 
 Software developer with a great passion for the web technologies. 
 
